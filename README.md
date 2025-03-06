@@ -89,7 +89,7 @@ git merge b1
 # 2. Look for conflict markers (<<<<<<, =======, >>>>>>>)
 # 3. Edit the files to resolve conflicts
 # 4. Save the files
-# 5. Stage the resolved files
+# 5. Stage the resolved file
 git add <conflicted-files>
 
 # Complete the merge with a commit
